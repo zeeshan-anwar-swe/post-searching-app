@@ -1,0 +1,48 @@
+body {
+	margin: 0%;
+}
+.headMain {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+	height: 35vh;
+	color: white;
+	background: rgb(41, 41, 85);
+}
+
+.headMain h2 {
+	margin-bottom: 5px;
+}
+
+.headMain input {
+	height: 31px;
+	width: 200px;
+	text-align: center;
+	background: white;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	border-style: none;
+}
+
+.headMain .btn1 {
+	margin-left: 10px;
+	height: 33px;
+	border-radius: 5px;
+	width: 100px;
+	margin-bottom: 20px;
+	border: 1px solid white;
+	background: none;
+	color: white;
+}
+
+.headMain .btn2 {
+	border-radius: 5px;
+	height: 33px;
+	width: 315px;
+	margin-bottom: 20px;
+	border: none;
+	background: white;
+	color: rgb(41, 41, 85);
+}

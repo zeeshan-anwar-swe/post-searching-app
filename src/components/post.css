@@ -1,0 +1,13 @@
+.postBox {
+	width: 60%;
+	height: 25vh;
+	display: flex;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	background: white;
+	flex-direction: column;
+	justify-content: center;
+	padding-left: 20px;
+	box-shadow: rgba(0, 0, 0, 0.084) 0px 10px 20px,
+		rgba(0, 0, 0, 0.119) 0px 6px 6px;
+}
